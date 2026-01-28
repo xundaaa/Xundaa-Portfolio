@@ -2,8 +2,8 @@ import React from 'react'
 import video from "./videos/Video1.mp4"
 import video1 from "./videos/Video2.mp4"
 import video2 from "./videos/Video3.mp4"
-import video3 from "./videos/video4.mp4"
-import video4 from "./videos/video5.mp4"
+import video3 from "./videos/Video4.mp4"
+import video4 from "./videos/Video5.mp4"
 function App() {
   const handleCopy = (e, text) => {
     e.preventDefault();
